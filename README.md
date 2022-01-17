@@ -2,6 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning python
 - 📫 How to reach me Aqibkhan8860@gmail.com
+- Join me on Linkedin - https://www.linkedin.com/in/aqib-khan-88a4b51b2
 
 
 <!---
